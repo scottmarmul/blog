@@ -1,0 +1,13 @@
+
+			<p id="navbar2"><%= link_to "Home", root_path%>&nbsp;&nbsp;&nbsp;
+	        <%= link_to "Resume", resumes_path %>&nbsp;&nbsp;&nbsp;
+	        <%= link_to "Contact", contacts_path %>&nbsp;&nbsp;&nbsp;
+			<%= link_to "Blog", posts_path %></p>
+			
+
+<p id="blogicon">ScottMarmulstein.com - Blog</p>
+<%= render 'form' %>
+
+
+<p id="bloglinks"><%= link_to 'Show', @post %> |
+<%= link_to 'Back', posts_path %></p>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>http://www.scottmarmulstein.com/ScottMarmulstein.com/Blog</link>
+    <description></description>
+    <item>
+      <title>Day of longboarding</title>
+      <link>http://www.scottmarmulstein.com/ScottMarmulstein.com/Blog/Entries/2011/5/17_Day_of_longboarding.html</link>
+      <guid isPermaLink="false">57d6eef1-ab4c-42fa-b5b2-605dfd7646b8</guid>
+      <pubDate>Tue, 17 May 2011 17:37:29 -0600</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://www.scottmarmulstein.com/ScottMarmulstein.com/Blog/Entries/2011/5/17_Day_of_longboarding.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>http://www.scottmarmulstein.com/ScottMarmulstein.com/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>
